@@ -1,0 +1,13 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+	<aura:attribute name="lblHello" type="String" default="Hello ..." /> 
+	<aura:attribute name="inpName" type="String" /> 
+    
+    <div class="slds-form-element">
+	  <h1>Hello World</h1>
+        <ui:outputtext class="slds-form-element__label" value="{!v.lblHello}" />
+        <div class="slds-form-element__control">
+            <lightning:input type="text" id="myHTInput" name="myHTInput" class="slds-input" placeholder="Enter Name Here" value="{!v.inpName}" />
+        </div>
+        <lightning:button label="Click Me!" onclick="{!c.handleClickMe}" />
+    </div>    
+</aura:component>

@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531720081604,
+            "changeTime": 1531720081604,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531719933068,
+            "changeTime": 1531719933068,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531722129828,
+            "changeTime": 1531722129828,
+            "contentHash": "aab7dc3ae134fe4b3f82e3e82aeb258334d250a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531719974568,
+            "changeTime": 1531719974568,
+            "contentHash": "c7e92f27601f32767e67452237042f60206ea18e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\aura\\HelloTom",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\aura\\HelloTom",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531719974641,
+            "changeTime": 1531723492198,
+            "contentHash": "91d0f4f2c3049cc817192d4be1ed77c75e03b111",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\aura\\HelloTom\\HelloTom.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\aura\\HelloTom\\HelloTom.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1531593514152,
+            "changeTime": 1531593514152,
+            "contentHash": "a6edb3d3799df35f776b114f5632b354eac4a85c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\aura\\HelloTom\\HelloTom.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\aura\\HelloTom\\HelloTom.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1531593514205,
+            "changeTime": 1531723492090,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\aura\\HelloTom\\HelloTomController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\aura\\HelloTom\\HelloTomController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 605,
+            "modifiedTime": 1531593514229,
+            "changeTime": 1531593514229,
+            "contentHash": "4fe26f3612152e0e4201f017877acc9ba5de29d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531722129853,
+            "changeTime": 1531722129853,
+            "contentHash": "3842ae5af447aead2aacf509caa3b607a343ca98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\flexipages\\Hello_Tom.flexipage",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\flexipages\\Hello_Tom.flexipage",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 456,
+            "modifiedTime": 1531593514256,
+            "changeTime": 1531593514256,
+            "contentHash": "02d59cd882e87c3ba2552f9f168ececd7f37cac6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531722129714,
+            "changeTime": 1531722129714,
+            "contentHash": "64e6aacd798ba590b0c7afd96a09798bdabe548e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\tabs\\Hello_Tom.tab",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\main\\default\\tabs\\Hello_Tom.tab",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 313,
+            "modifiedTime": 1531593514307,
+            "changeTime": 1531593514307,
+            "contentHash": "e1d13ec83d781d893e4e706dcbe6625ba5cc044c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\test",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531720096406,
+            "changeTime": 1531720096406,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello\\force-app\\test\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello\\force-app\\test\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531720091273,
+            "changeTime": 1531720096407,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\VC\\LF\\GitHub\\Hello",
+        {
+            "state": "n",
+            "sourcePath": "C:\\VC\\LF\\GitHub\\Hello",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1531743135645,
+            "changeTime": 1531743135645,
+            "contentHash": "e9543edb347a9e2cd44dfedab6d489d85642f6ed",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

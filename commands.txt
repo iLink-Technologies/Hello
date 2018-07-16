@@ -1,0 +1,7 @@
+sfdx force:project:create --projectname HelloTom
+sfdx force:org:list
+sfdx force:org:create --setdefaultusername - config/project-scratch-def.json --setalias HelloTomDev
+sfdx force:org:list
+sfdx force:source:push
+sfdx force:apex:text:run -resultformat human
+sfdx force:org:open
